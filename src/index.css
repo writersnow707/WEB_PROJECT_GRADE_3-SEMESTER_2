@@ -1,0 +1,20 @@
+body {
+  background-image: url(./image/christmas-3864552_1920.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.horizontal {
+  width: 100%;
+  text-align:center;
+  border-bottom: 1px solid #aaa;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+
+.horizontal span {
+  background: #fff;
+  padding: 0 10px;
+}
